@@ -23,8 +23,8 @@ public class Ejercicio10 {
 		for(int i = 0;i <alturas.length;i++) {
 			System.out.println("Dime una altura en metros: ");
 			altura = scanner.nextInt();
-			alturaTotal = altura + alturas[i];
-			
+			alturaTotal= altura + alturaTotal;
+			alturaMedia = alturaTotal/10;
 			
 		}
 		System.out.println("La altura media de todas es " + alturaMedia);
