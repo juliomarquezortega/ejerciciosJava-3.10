@@ -1,8 +1,3 @@
-/*
- * Nombre: Julio
- * Descripción:un programa que pida dos valores,uno que sera cuantas posiciones tendra el array y el segundo es el contenido en si del array,se debe que mostrar por pantalla primero 
- * Fecha:5/11/2025
- */
 package MárquezOrtegaJulio3_10;
 
 import java.util.Scanner;

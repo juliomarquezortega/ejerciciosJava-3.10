@@ -1,8 +1,3 @@
-/*
- * Nombre:Julio
- * Descripción:Programa que pide 20 números y que haga la media de la suma y se divida por el número total  que hay 
- * Fech:03/11/2025
- */
 package MárquezOrtegaJulio3_10;
 
 import java.util.Scanner;

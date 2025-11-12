@@ -1,8 +1,3 @@
-/*
- * Nombre:Julio
- * Descripcion:Un programa con un array de tamaño 100 que tenga numeros de entre 0.0 y 1.0 con el math.random,se debe que mostrar al final un numero que pide el usuario y en que posiciones del array esta 
- * Fecha:06/11/2025
- */
 package MárquezOrtegaJulio3_10;
 
 import java.util.Scanner;

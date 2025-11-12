@@ -1,8 +1,3 @@
-/*
- * Nombre:Julio
- * Fecha:6/11/2025
- * Descripcion:Un programa con un array que guarde 100 numeros aleatorio entre 0 y 1,el usuario debe que poner un numero tambien y saber cuantos numeros son mayores o iguales
- */
 package MárquezOrtegaJulio3_10;
 
 import java.util.Scanner;

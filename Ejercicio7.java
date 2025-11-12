@@ -1,8 +1,3 @@
-/*
- * Nombre:Julio
- * Fecha:05/11/2025
- * Descripcion:Hacer un programa de array,el usuario pone dos valores,un valor sera para el principio del array y el otro para el final,se debe que mostrar todos sus números 
- */
 package MárquezOrtegaJulio3_10;
 
 import java.util.Scanner;
